@@ -2,5 +2,6 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Hello World");
         System.out.println("Change for new branch to be merged");
+        System.out.println("This is also a conflict");
     }
 }
